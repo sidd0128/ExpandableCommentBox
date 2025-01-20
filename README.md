@@ -107,6 +107,9 @@ Tracks the visibility and height of the keyboard:
 - `react-native-animated`: For smooth animations.
 
 ---
+## Video :
+
+https://github.com/user-attachments/assets/f3349a9a-937b-48c5-b840-8671db9ab1e6
 
 ## Conclusion
 This project demonstrates how to build a modular, scalable, and performant React Native chat interface with advanced features. By separating logic, UI, and styles, it ensures maintainability and reusability across components.
