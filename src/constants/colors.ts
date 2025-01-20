@@ -1,7 +1,6 @@
 const colors: Colors = {
   newPrimaryColor: "#2C2C2C",
 
-  // Grayscale
   gray1: "#333333",
   gray2: "#737373",
   gray3: "#D1D1D1",
@@ -9,35 +8,25 @@ const colors: Colors = {
   gray5: "#F9F9F9",
   white: "#FFFFFF",
 
-  // Brand
-  avyGreen: "#025A5C",
-  avyRed: "#FF5959",
-  darkGreen: "#1D3233",
-  lightBeige: "#FAF1E7",
 
-  // Signal
   success: "#62A144",
   warning: "#F4C74E",
   error: "#D84545",
   neutral: "#4582D8",
 
-  // Signal Faded
   successBackground: "#EAF5E5",
   warningBackground: "#FFF7E0",
   errorBackground: "#FEECEC",
   neutralBackground: "#F0F6FE",
 
-  // Utility
   red: "#EB5247",
   yellow: "#F6C856",
   green: "#64DA99",
-  // orange: "#EF8245", // TODO Uncomment once legacy color has been replaced
   blue: "#3569F6",
   purple: "#979CEF",
   pink: "#EF86AA",
   darkBlue: "#28277D",
 
-  // Utility faded
   redFaded: "#EB524754",
   yellowFaded: "#F6C85654",
   greenFaded: "#64DA9954",
@@ -47,7 +36,6 @@ const colors: Colors = {
   pinkFaded: "#EF86AA54",
   darkBlueFaded: "#28277D54",
 
-  // Avatar colors
   matterhorn: "#443742",
   cement: "#846C5B",
   tan: "#CEA07E",
@@ -64,7 +52,6 @@ const colors: Colors = {
   axolotl: "#4B644A",
   norway: "#93B48B",
 
-  // Community post category colors
   moonRakerOpacity: "#DCD6F780",
   tanOpacity: "#CEA07E80",
   coldPurpleOpacity: "#A6B1E180",
@@ -82,7 +69,6 @@ const colors: Colors = {
 
   highlightColor: "rgba(255,255,255, 0.4)",
 
-  // Legacy colors. Do not use them anymore
   accent80: "#ffecd8",
   black0: "#000000",
   black29: "#002929",
